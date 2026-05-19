@@ -50,7 +50,7 @@ Bu proje; ev, ofis veya benzeri ortamlarda temel alarm ihtiyaçlarını karşıl
 ## ✍️ Yazar
 
 **Murat Güney**
-📧 muratgny@gmail.com
+📧 muratgny28@gmail.com
 
 ---
 
